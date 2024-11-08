@@ -9,7 +9,7 @@
 - [x] 1.4 Security Controls (4m)
 - [x] 1.5 Zones of Trust (8m)
 - [x] 1.6 Physical Security (14m)
-- [ ] 1.7 Change Management (4m)
+- [x] 1.7 Change Management (4m)
 - [ ] 1.8 Cryptography Basics (4m)
 - [ ] 1.9 Initialization Vectors (9m)
 - [ ] 1.10 Algorithms and Keys (6m)
